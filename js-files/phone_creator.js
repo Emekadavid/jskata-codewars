@@ -7,10 +7,12 @@
 // Note: The input array will always contain exactly 10 integers.
 
 function createPhoneNumber(numbers){
+    // format the number using slicing and string concatenation
     let numOutput = '('+ numbers.slice(0, 3).join('') + ') ' +
                   numbers.slice(3, 6).join('') + '-' +
                   numbers.slice(-4).join('');
-    console.log('Formatted Phone Number:', numOutput);
+    // return the result
+    return numOutput);
 } 
 
 createPhoneNumber([1, 2, 3, 4, 5, 6, 7, 8, 9, 0]);
