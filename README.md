@@ -11,4 +11,4 @@ Task: Write a function that takes an array of 10 integers (between 0 and 9)
 and returns a string representing a phone number in the format "(xxx) xxx-xxxx".
 Example: createPhoneNumber([1,2,3,4,5,6,7,8,9,0]) should return "(123) 456-7890".
 Note: The input array will always contain exactly 10 integers.
-[Solution link]()
+[Solution link](js-files/phone_creator.js)
