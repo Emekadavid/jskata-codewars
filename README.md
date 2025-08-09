@@ -14,7 +14,7 @@ My first codewars kata solution: Formatting phone numbers
 
 Task: Write a function that takes an array of 10 integers (between 0 and 9) 
 and returns a string representing a phone number in the format "(xxx) xxx-xxxx".
-Example: createPhoneNumber([1,2,3,4,5,6,7,8,9,0]) should return "(123) 456-7890".
+Example: ```createPhoneNumber([1,2,3,4,5,6,7,8,9,0])``` should return ```"(123) 456-7890"```.
 Note: The input array will always contain exactly 10 integers.
 
 [Solution link](js-files/phone_creator.js)
@@ -48,11 +48,11 @@ integers and strings and returns a new list with the strings filtered out.
 
 Examples:
 
-filter_list([1,2,'a','b']) == [1,2]
+```filter_list([1,2,'a','b']) == [1,2]```
 
-filter_list([1,'a','b',0,15]) == [1,0,15]
+```filter_list([1,'a','b',0,15]) == [1,0,15]```
 
-filter_list([1,2,'aasf','1','123',123]) == [1,2,123]
+```filter_list([1,2,'aasf','1','123',123]) == [1,2,123]```
 
 [Solution link](js-files/list_filtering.js)
 
