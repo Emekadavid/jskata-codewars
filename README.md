@@ -6,7 +6,7 @@ I created this repo to track the Javascript solutions I have successfully submit
 
 I intend concentrating on the principles behind each test in order to track how the tests are organized. 
 
-#### First Kata
+<h4 align="center">First Kata</h4>
 
 My first codewars kata solution: Formatting phone numbers
 
@@ -21,7 +21,7 @@ Note: The input array will always contain exactly 10 integers.
 
 Concepts: Slicing and String concatenation. 
 
-#### Second Kata
+<h4 align="center">Second Kata</h4>
 
 Second Kata involves encoding duplicate characters.
 
@@ -37,7 +37,7 @@ determining if a character is a duplicate.
 
 Concepts: Arrays, Strings, loops. 
 
-#### Third Kata
+<h4 align="center">Third Kata</h4>
 
 This kata teaches list filtering. 
 
@@ -58,7 +58,7 @@ Examples:
 
 Concepts: Lists, Filtering, Loops, Data Structures
 
-#### Fourth Kata
+<h4 align="center">Fourth Kata</h4>
 
 The fourth Kata involves decimal to binary conversion. 
 
@@ -72,7 +72,7 @@ Examples:
 
 ```5, 9 --> "1110" (5 + 9 = 14 in decimal or 1110 in binary)```
 
-[Solution link]()
+[Solution link](js-files/binary_addition.js)
 
 Concepts: Operations with addition operator, +; binary conversion, String conversion
 
