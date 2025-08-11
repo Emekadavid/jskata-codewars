@@ -76,3 +76,26 @@ Examples:
 
 Concepts: Operations with addition operator, +; binary conversion, String conversion
 
+<h4 align="center>Fifth Kata</h4>
+
+This fifth Kata uses computational mathematics to find the quotient of a number that can 
+multiply the number such that the result would be equal to summing the exponentiation 
+of each digit of the number progressively with a given positive p, such that each
+exponentiation starts from the leftmost digit in the number and p increases by 1 progressively. 
+
+[Kata link](https://www.codewars.com/kata/5552101f47fc5178b1000050/solutions/javascript)
+
+Task: given a number n, and a positive integer, p, such that when you raise each digit
+in the number starting from the leftmost digit with p such that the first is raised by p, the next by p+1 and so on... on summing the exponents, you can find a k, such that the number multiplied by k is equal to the sum of the exponents. 
+
+Examples:
+
+```if n = 695 and p = 2, k should be 2``` 
+
+```if n = 46288 and p = 3, k should be 51```
+
+```if n = 123 and p = 1, there is no k to satisfy the condition, so we return -1```
+
+[Solution link]()
+
+Concepts: BigInt, Control flow (while loop, for loop), Data structures (arrays), Maths operators (modulo division, quotient division), Heuristic (sum stabilization and magnitude check)  
