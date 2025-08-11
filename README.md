@@ -6,6 +6,8 @@ I created this repo to track the Javascript solutions I have successfully submit
 
 I intend concentrating on the principles behind each test in order to track how the tests are organized. 
 
+<h4><em>Note to reader</em>: To stay on this page, right-click the link below and select "Open Link in New Tab."</h4>
+
 <h4 align="center">First Kata</h4>
 
 My first codewars kata solution: Formatting phone numbers
