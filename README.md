@@ -76,7 +76,7 @@ Examples:
 
 Concepts: Operations with addition operator, +; binary conversion, String conversion
 
-<h4 align="center>Fifth Kata</h4>
+<h4 align="center"> Fifth Kata </h4>
 
 This fifth Kata uses computational mathematics to find the quotient of a number that can 
 multiply the number such that the result would be equal to summing the exponentiation 
@@ -96,6 +96,6 @@ Examples:
 
 ```if n = 123 and p = 1, there is no k to satisfy the condition, so we return -1```
 
-[Solution link]()
+[Solution link](js-files/digits_play.js)
 
 Concepts: BigInt, Control flow (while loop, for loop), Data structures (arrays), Maths operators (modulo division, quotient division), Heuristic (sum stabilization and magnitude check)  
