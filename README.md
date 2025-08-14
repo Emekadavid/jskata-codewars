@@ -1,6 +1,6 @@
 <h1 align="center">🚀 CodeWars Katas Solved</h1>
 
-Started yesterday Thursday, August 7, 2025.
+Started Thursday, August 7, 2025.
 
 I created this repo to track the Javascript solutions I have successfully submitted on codewars.com. 
 
