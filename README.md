@@ -114,7 +114,9 @@ if the given number is 10, the multiples of 3 or 5 are 3, 5, 6, and 9.
 Task: Given a number, find all multiples of 3 or 5 below it. If there number is 0
 or negative, return 0. Don't double-count numbers. 
 
-[Solution link]()
+[Solution link](js-files/multiple35.js)
+
+Concepts: Control flow - loops, if statement.
 
 <h4 align="center"> Seventh Kata </h4>
 
@@ -130,7 +132,9 @@ Note: Numbers can be from 1 to 9. So 1 will be the first word (not 0).
 If the input string is empty, return an empty string. The words in the input String 
 will only contain valid consecutive numbers.
 
-[Solution link]()
+[Solution link](js-files/your_order.js)
+
+Concepts: Functions, Control flow, Data structures - arrays, strings, String and number manipulation. 
 
 <h4 align="center"> Eight Kata </h4>
 
@@ -141,4 +145,6 @@ will only contain valid consecutive numbers.
 Task: Write a thread program that calculates the longest time to run n tasks given 
 k pools, or tills. 
 
-[Solution link]()
+[Solution link](js-files/threadpool.js)
+
+Concepts: Greedy algorithm, functions - (min, max), modulus operators, Arrays, Data structures, functions, control flow.  
