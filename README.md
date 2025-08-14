@@ -102,3 +102,43 @@ Examples:
 
 
 Concepts: BigInt, Control flow (while loop, for loop), Data structures (arrays), Maths operators (modulo division, quotient division), Heuristic (sum stabilization and magnitude check)  
+
+<h4 align="center"> Sixth Kata </h4>
+
+This Kata looks for the multiples of 3 or 5 below a given number threshold. For example,
+if the given number is 10, the multiples of 3 or 5 are 3, 5, 6, and 9. 
+
+[Kata link](https://www.codewars.com/kata/514b92a657cdc65150000006/javascript
+)
+
+Task: Given a number, find all multiples of 3 or 5 below it. If there number is 0
+or negative, return 0. Don't double-count numbers. 
+
+[Solution link]()
+
+<h4 align="center"> Seventh Kata </h4>
+
+This Kata's aim is for you to be able to sort strings containing words based on a 
+unique number placed in the word. For example, ```3a a2m b4oy I1``` will be sorted to:
+```I1 a2m 3a b4oy.``` 
+
+[Kata link](https://www.codewars.com/kata/55c45be3b2079eccff00010f/javascript)
+
+Task: Your task is to sort a given string. Each word in the string will contain 
+a single number. This number is the position the word should have in the result.
+Note: Numbers can be from 1 to 9. So 1 will be the first word (not 0).
+If the input string is empty, return an empty string. The words in the input String 
+will only contain valid consecutive numbers.
+
+[Solution link]()
+
+<h4 align="center"> Eight Kata </h4>
+
+ This kata simulates a thread. Imagine you have three tasks to run and two concurrent pools, what would be the longest time to finish all tasks? It gives you an idea of the challenge faced by programmers writing threading programs, like java. 
+
+[Kata link](https://www.codewars.com/kata/57b06f90e298a7b53d000147/javascript)
+
+Task: Write a thread program that calculates the longest time to run n tasks given 
+k pools, or tills. 
+
+[Solution link]()
