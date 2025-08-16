@@ -148,3 +148,6 @@ k pools, or tills.
 [Solution link](js-files/threadpool.js)
 
 Concepts: Greedy algorithm, functions - (min, max), modulus operators, Arrays, Data structures, functions, control flow.  
+
+1. smileyfaces.js
+2. piglatin.js

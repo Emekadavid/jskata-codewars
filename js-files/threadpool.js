@@ -66,7 +66,7 @@ console.log(queueTime([5, 3, 4], 1)); // Output: 12
 console.log(queueTime([10, 2, 3, 3], 2)); // Output: 10
 console.log(queueTime([2, 3, 10], 2)); // Output: 12
 console.log(queueTime([], 1)); // Output: 0 (empty queue)
-console.log(queueTime([1, 2, 3, 4], 3)); // Output: 4 (1st till finishes first)
+console.log(queueTime([1, 2, 3, 4], 3)); // Output: 5 (1st till finishes first)
 console.log(queueTime([1, 2, 3, 4, 5], 5)); // Output: 5 (each customer goes to a different till)
 console.log(queueTime([10, 20, 30], 2)); // Output: 40 (tills share the workload)
 console.log(queueTime([1, 1, 1, 1], 2)); // Output: 2 (two tills share the workload evenly)
