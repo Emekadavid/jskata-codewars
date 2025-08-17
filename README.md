@@ -149,5 +149,26 @@ k pools, or tills.
 
 Concepts: Greedy algorithm, functions - (min, max), modulus operators, Arrays, Data structures, functions, control flow.  
 
-1. smileyfaces.js
-2. piglatin.js
+<h4 align="center">Ninth Kata</h4>
+
+Just some code using Regex to detect the contours of smiley faces. I really loved this one. 
+
+[Kata link](https://www.codewars.com/kata/583203e6eb35d7980400002a/solutions/javascript)
+
+Task: The basic smiley has a eyes, nose and mouth. Only the nose is optional. Your task is to detect the basic contours of a given string whether it is a smiley or not. 
+
+[Solution link]()
+
+Concepts:
+
+<h4 align="center">Tenth Kata</h4>
+
+I really don't understand what piglatin means but for this, maybe codewars translation, you need to move and add strings to a basic string. 
+
+[Kata link](https://www.codewars.com/kata/520b9d2ad5c005041100000f/javascript)
+
+Task: Given a string, take the first letter of the string, if one exists, and put it at the end of the string then modify the string by adding ay to the end after moving the first letter. Quite easy but interesting. 
+
+[Solution link]()
+
+Concepts: 
