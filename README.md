@@ -136,7 +136,7 @@ will only contain valid consecutive numbers.
 
 Concepts: Functions, Control flow, Data structures - arrays, strings, String and number manipulation. 
 
-<h4 align="center"> Eight Kata </h4>
+<h4 align="center"> Eighth Kata </h4>
 
  This kata simulates a thread. Imagine you have three tasks to run and two concurrent pools, what would be the longest time to finish all tasks? It gives you an idea of the challenge faced by programmers writing threading programs, like java. 
 
@@ -157,9 +157,9 @@ Just some code using Regex to detect the contours of smiley faces. I really love
 
 Task: The basic smiley has a eyes, nose and mouth. Only the nose is optional. Your task is to detect the basic contours of a given string whether it is a smiley or not. 
 
-[Solution link]()
+[Solution link](js-files/smileyfaces.js)
 
-Concepts:
+Concepts: JS arrow functions, RegEx, Functions, Arrow methods.
 
 <h4 align="center">Tenth Kata</h4>
 
@@ -169,6 +169,6 @@ I really don't understand what piglatin means but for this, maybe codewars trans
 
 Task: Given a string, take the first letter of the string, if one exists, and put it at the end of the string then modify the string by adding ay to the end after moving the first letter. Quite easy but interesting. 
 
-[Solution link]()
+[Solution link](js-files/piglatin.js)
 
-Concepts: 
+Concepts: Arrow functions, array methods, strings. 
